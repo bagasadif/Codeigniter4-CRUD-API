@@ -1,4 +1,4 @@
-# Codeigniter4 CRUD API
+# Codeigniter 4 CRUD API
 Simple CRUD REST API using Codeigniter 4
 
 ## Tech Stack
